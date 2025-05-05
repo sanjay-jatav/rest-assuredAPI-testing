@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-05T12:49:09 IST" name="Default suite" finished-at="2025-05-05T12:49:34 IST" duration-ms="25034">
+    <groups>
+    </groups>
+    <test started-at="2025-05-05T12:49:09 IST" name="Default test" finished-at="2025-05-05T12:49:34 IST" duration-ms="25034">
+      <class name="evaluation.RAEvaluation">
+        <test-method signature="postRequest()[pri:0, instance:evaluation.RAEvaluation@5b8dfcc1]" started-at="2025-05-05T12:49:10 IST" name="postRequest" finished-at="2025-05-05T12:49:28 IST" duration-ms="18164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequest -->
+        <test-method signature="statusCode()[pri:0, instance:evaluation.RAEvaluation@5b8dfcc1]" started-at="2025-05-05T12:49:28 IST" name="statusCode" finished-at="2025-05-05T12:49:29 IST" duration-ms="1132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCode -->
+        <test-method signature="testDeletewithVerification()[pri:0, instance:evaluation.RAEvaluation@5b8dfcc1]" started-at="2025-05-05T12:49:29 IST" name="testDeletewithVerification" finished-at="2025-05-05T12:49:31 IST" duration-ms="2203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeletewithVerification -->
+        <test-method signature="testPartialUpdateTitle()[pri:0, instance:evaluation.RAEvaluation@5b8dfcc1]" started-at="2025-05-05T12:49:31 IST" name="testPartialUpdateTitle" finished-at="2025-05-05T12:49:33 IST" duration-ms="1857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPartialUpdateTitle -->
+        <test-method signature="testUpdatePost()[pri:0, instance:evaluation.RAEvaluation@5b8dfcc1]" started-at="2025-05-05T12:49:33 IST" name="testUpdatePost" finished-at="2025-05-05T12:49:34 IST" duration-ms="1213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdatePost -->
+      </class> <!-- evaluation.RAEvaluation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
